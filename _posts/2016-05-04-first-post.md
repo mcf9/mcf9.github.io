@@ -27,9 +27,9 @@ var foo = function(x) {
 foo(3)
 ```
 
-```sql
+{% highlight sql %}
 update MeasVisualizations
 Set SeriesColor ='03A9F4', SeriesColorFromTheme= 0
 where MeasurementId in (SELECT mm.MeasurementId
   FROM [EMEA_16].[dbo] .[MeasVisualizations] mv inner join MeasMetadata mm on mv.MeasurementId =mm. MeasurementId where ChartId= 5598 and Dimension1 like '%F4a')
-```
+{% endhighlight %}
