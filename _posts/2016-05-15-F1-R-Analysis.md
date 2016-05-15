@@ -6,7 +6,7 @@ bigimg: /img/bcn.JPG
 ---
 
 The wordcloud for the SpanishGP:
-![SPanishGP](Spanishgp.pdf)
+... you can [SpanishGP]({Spanishgp.pdf)
 
 How about a yummy crepe?
 
