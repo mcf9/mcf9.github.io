@@ -7,6 +7,7 @@ bigimg: /img/bcn.JPG
 
 The wordcloud for the SpanishGP:
 ... you can [SpanishGP](/pdf/Spanishgp.pdf)
+you can [get the PDF]({{ site.url }}/pdf/SpanishGP.pdf) directly.
 
 How about a yummy crepe?
 
