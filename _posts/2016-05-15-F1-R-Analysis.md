@@ -11,5 +11,5 @@ Here are the word clouds for the last two GPs:
 - [RussianGP]({{ site.url }}/pdf/RussianGP.pdf)
 
 Looking at tweet frquency for '#F1':
-
+![Frequency](img/Frequency.png)
 
