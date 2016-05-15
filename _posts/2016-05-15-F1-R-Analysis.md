@@ -10,6 +10,6 @@ Here are the word clouds for the last two GPs:
 - [SpanishGP]({{ site.url }}/pdf/SpanishGP.pdf)
 - [RussianGP]({{ site.url }}/pdf/RussianGP.pdf)
 
-Looking at tweet frquency for '#F1':
-![Frequency](img/Frequency.png)
+The following chart was created by grabbing the last 10k tweets containing '#F1':
+![Frequency](/img/Frequency.png)
 
