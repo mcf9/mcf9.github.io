@@ -1,11 +1,12 @@
 ---
 layout: post
-title: First post
-subtitle: How to do this
+title: F1 R Analysis
+subtitle: Fooling aroung with twitter and R
 bigimg: /img/bcn.JPG
 ---
 
-Hi Mom!
+The wordcloud for the SpanishGP:
+![SPanishGP](Spanishgp.pdf)
 
 How about a yummy crepe?
 
