@@ -28,5 +28,12 @@ You can setup MusicBox manually, but I’ll just use the provided [SD-Card image
 4. After successfully restoring the image, we have to provide the WiFi SSID and PW
 5. Go to the SD-Card config/settings.ini
 Provide the values without any brackets/quotes
-6. Put the SD-Card into the Pi and fire it up
+6. You can set ’’enable_ssh = true’’ to enable SSH
+7. Put the SD-Card into the Pi and fire it up
+
+After a couple of minutes the Pi should show up as _MusicBox_. It is available through its ip and musicbox.local
+
+I disabled all services, except: TuneIn, Podcasts, Youtube. Scanning for local files is done during boot, thus booting might take a while. 
+
+The interface is available from any webbrowser on the same network. I use a remote controlled power outlet to turn on the speakers. The Pi is always-on. As I was redoing the steps from a couple of months ago, I noticed how it literally only took me *10 mins*. It is such a brilliant way to have play music, especially when I want to listen to radom web radio.
 
