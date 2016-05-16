@@ -7,27 +7,4 @@ bigimg: /img/bcn2.JPG
 
 As I try to get the hang of _this_ I’m increasingly realizing how much is actually going on.
 
-
-
-Here's a code chunk:
-
-~~~
-x <- 5 + 10
-print(x)
-~~~
-
-And here is some code with syntax highlighting
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-{% highlight sql %}
-update MeasVisualizations
-Set SeriesColor ='03A9F4', SeriesColorFromTheme= 0
-where MeasurementId in (SELECT mm.MeasurementId
-  FROM [EMEA_16].[dbo] .[MeasVisualizations] mv inner join MeasMetadata mm on mv.MeasurementId =mm. MeasurementId where ChartId= 5598 and Dimension1 like '%F4a')
-{% endhighlight %}
+GPA(Grade Point Average)
