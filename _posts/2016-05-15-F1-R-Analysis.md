@@ -13,3 +13,5 @@ Here are the word clouds for the last two GPs:
 The following chart was created by grabbing the last 10k tweets containing '#F1':
 ![Frequency](/img/Frequency.png)
 
+Until next time…
+
