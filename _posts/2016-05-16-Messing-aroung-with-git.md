@@ -21,7 +21,12 @@ Everything ~~is~~ was cool. Somehow I managed to mess up the configuration and n
 
 You can setup MusicBox manually, but I’ll just use the provided [SD-Card image](https://dl.mopidy.com/pimusicbox/pimusicbox-0.6.0.zip).
 
-## Instructions
+## Steps
 1. Download Image
-
+2. Grab [Pi Filler](http://elinux.org/RPi_Easy_SD_Card_Setup) for OS X 
+3. Restore the image to SD-Card …
+4. After successfully restoring the image, we have to provide the WiFi SSID and PW
+5. Go to the SD-Card config/settings.ini
+Provide the values without any brackets/quotes
+6. Put the SD-Card into the Pi and fire it up
 
